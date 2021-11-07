@@ -15,10 +15,13 @@
 
 ### 回溯算法（DFS）
 
-| 题目                                                         | 题解                                                         | 推荐 | 备注         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------ |
-| [组合](https://leetcode-cn.com/problems/combinations/)       | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/77.Combinations) | 🌟🌟🌟  | 回溯的练手题 |
-| [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | Xianyu                                                       | 🌟🌟🌟  | 回溯的练手题 |
+| 题目                                                         | 题解                                                         | 推荐 | 备注                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | -------------------- |
+| [组合](https://leetcode-cn.com/problems/combinations/)       | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/77.Combinations) | 🌟🌟🌟  | 回溯的练手题         |
+| [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/39.CombinationSum) | 🌟🌟🌟  | 回溯的练手题         |
+| [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/40.CombinationSumII) | 🌟🌟🌟🌟 | 感觉是组合总和最难的 |
+| [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/blob/main/XianyuZhang/216.Combination_Sum_III/README.md) | 🌟🌟🌟  | 回溯的练手题         |
+| [分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) |                                                              |      |                      |
 
 
 
