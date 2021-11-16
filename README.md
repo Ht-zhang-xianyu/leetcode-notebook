@@ -35,6 +35,18 @@
 
 ### 二叉树
 
+| 题目                                                         | 题解                                                         | 推荐 | 备注               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------ |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |                                                              | 🌟    | 太基础             |
+| [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Alex.Jiang](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/Alex.Jiang/662.%20Maximum%20Width%20of%20Binary%20Tree) | 🌟🌟🌟  | 层级遍历和数学结合 |
+| [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Alex.Jiang](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/Alex.Jiang/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | 🌟🌟   |                    |
+| [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Alex.Jiang](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/Alex.Jiang/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree) | 🌟🌟🌟  | dfs hard 题目      |
+|                                                              |                                                              |      |                    |
+|                                                              |                                                              |      |                    |
+|                                                              |                                                              |      |                    |
+|                                                              |                                                              |      |                    |
+|                                                              |                                                              |      |                    |
+
 
 
 ### 字符串
