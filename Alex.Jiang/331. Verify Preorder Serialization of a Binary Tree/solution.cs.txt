@@ -1,0 +1,15 @@
+public class Solution {
+    public bool IsValidSerialization(string preorder) {
+        string[] values = preorder.Split(',');
+        int flag = 1;
+        
+        foreach(var v in values){
+            flag--;
+            if(flag < 0)
+                return false;
+            if(v != "#")
+                flag +=2;
+        }
+        return flag == 0;
+    }
+}
