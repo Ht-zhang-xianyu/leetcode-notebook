@@ -35,6 +35,15 @@
 
 
 
+### 贪心
+
+| 题目                                                         | 题解                                                         | 推荐 | 备注                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------ |
+| [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/blob/main/XianyuZhang/376.WiggleSubsequence/README.md) |      | 可贪心和可动态规划的题目 |
+| [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/55.JumpGame) |      |                          |
+
+
+
 ### 二叉树
 
 | 题目                                                         | 题解                                                         | 推荐 | 备注               |
