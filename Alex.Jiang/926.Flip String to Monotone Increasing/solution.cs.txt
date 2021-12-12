@@ -1,0 +1,13 @@
+public class Solution {
+    public int MinFlipsMonoIncr(string s) {
+        int oneCount = 0;
+        int result = 0;
+        foreach(var c in s){
+            if(c == '0')
+                result = Math.Min(result+1,oneCount);
+            else
+                oneCount++;
+        }
+        return result;
+    }
+}

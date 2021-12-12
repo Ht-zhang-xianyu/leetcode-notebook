@@ -1,0 +1,26 @@
+public class Solution {
+    Dictionary<string,int> help = new Dictionary<string, int>();
+    IList<TreeNode> result = new List<TreeNode>();
+    public IList<TreeNode> FindDuplicateSubtrees(TreeNode root) {
+        DFS(root);
+        return result;
+    }
+    
+    public string DFS(TreeNode node){
+        if(node == null)
+            return "";
+        StringBuilder sb = new StringBuilder();
+        sb.Append(DFS(node.left)+",");
+        sb.Append(node.val+",");
+        sb.Append(DFS(node.right)+",");
+        
+        string key = sb.ToString();
+        if(help.ContainsKey(key))
+            help[key] = help[key] + 1;
+        else
+            help[key] = 1;
+        if(help[key] == 2)
+            result.Add(node);
+        return key;
+    }
+}

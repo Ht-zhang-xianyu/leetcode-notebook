@@ -1,0 +1,21 @@
+public class Solution {
+    int Sum = 0;
+    public int SumOfLeftLeaves(TreeNode root) {
+        if(root == null || (root.left == null && root.right == null))
+            return Sum;
+        DFS(root);
+        return Sum;
+    }
+    
+    public void DFS(TreeNode root){
+        if(root.left == null && root.right == null)
+            Sum += root.val;
+        if(root.left != null)
+            DFS(root.left);
+        if(root.right != null)
+        {
+            root.right.val = 0;
+            DFS(root.right);
+        }
+    }
+}
