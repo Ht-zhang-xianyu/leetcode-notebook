@@ -1,5 +1,6 @@
 # leetcode-notebook
 用来存储和记录刷题的笔记
+author: HtZhang
 
 
 
@@ -41,6 +42,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------ |
 | [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/blob/main/XianyuZhang/376.WiggleSubsequence/README.md) |      | 可贪心和可动态规划的题目 |
 | [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/55.JumpGame) |      |                          |
+| [135. 分发糖果](https://leetcode-cn.com/problems/candy/)     | [Xianyu](https://github.com/Ht-zhang-xianyu/leetcode-notebook/tree/main/XianyuZhang/135.Candy) |      |                          |
 
 
 
